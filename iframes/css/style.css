@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(186, 228, 245);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+    font-size: 50px;
+    color: rgb(26, 8, 124);
+    text-align: center;
+    margin-top: 50px;
+
+}
+
+h2{
+    font-size: 30px;
+    color: rgb(219, 14, 82);
+    text-align: center;
+    margin-top: 50px;
+}
+
+iframe{
+    width: 90%;
+    display: block;
+    margin: 0 auto;
+    height: 500px;
+    border: none;
+    overflow: hidden;
+    padding-bottom: 25px;
+
+}
+
